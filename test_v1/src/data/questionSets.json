@@ -1,0 +1,118 @@
+{
+  "practice": {
+    "math": {
+      "a": [
+        {
+          "id": 1,
+          "question": "What is 2 + 2?",
+          "options": ["3", "4", "5", "6"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "What is 5 × 5?",
+          "options": ["20", "25", "30", "35"],
+          "correctAnswer": 1
+        }
+      ],
+      "b": [
+        {
+          "id": 1,
+          "question": "What is 10 - 7?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "What is 8 ÷ 2?",
+          "options": ["2", "3", "4", "6"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    "physics": {
+      "a": [
+        {
+          "id": 1,
+          "question": "What is the SI unit of force?",
+          "options": ["Newton", "Joule", "Watt", "Pascal"],
+          "correctAnswer": 0
+        },
+        {
+          "id": 2,
+          "question": "What is the speed of light?",
+          "options": ["299,792 km/s", "300,000 km/s", "299,792,458 m/s", "300,000,000 m/s"],
+          "correctAnswer": 2
+        }
+      ],
+      "b": [
+        {
+          "id": 1,
+          "question": "What is the unit of electric current?",
+          "options": ["Volt", "Ampere", "Ohm", "Watt"],
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the formula for force?",
+          "options": ["F = ma", "F = mv", "F = mg", "F = mv²"],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  },
+  "mock": {
+    "math": {
+      "a": [
+        {
+          "id": 1,
+          "question": "Solve: (x + 3)(x - 2)",
+          "options": ["x² + x - 6", "x² - 5x + 6", "x² + x + 6", "x² - x - 6"],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    "physics": {
+      "a": [
+        {
+          "id": 1,
+          "question": "What is the law of conservation of energy?",
+          "options": [
+            "Energy cannot be created or destroyed",
+            "Energy can be created but not destroyed",
+            "Energy can be destroyed but not created",
+            "Energy can be both created and destroyed"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  },
+  "final": {
+    "math": {
+      "a": [
+        {
+          "id": 1,
+          "question": "What is the derivative of x²?",
+          "options": ["x", "2x", "x²", "2"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    "physics": {
+      "a": [
+        {
+          "id": 1,
+          "question": "What is quantum entanglement?",
+          "options": [
+            "A quantum mechanical phenomenon where particles remain connected",
+            "A classical physics concept",
+            "A type of chemical bond",
+            "A mathematical equation"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  }
+}
